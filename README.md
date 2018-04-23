@@ -6,7 +6,7 @@ A simple app to redirect all requests to a URL.
 
 Use environment variables:
 
-- `REDIRECT_TO` - The absolute URL to redirec to
+- `REDIRECT_TO` - The absolute URL to redirect to
 - `PORT` - The port to run the server on (default `3000`)
 
 ## Deploy
